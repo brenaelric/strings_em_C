@@ -1,0 +1,25 @@
+Exercícios
+Entregar as respostas em papel ou em um arquivo de cabeçalho (.h) 
+
+OK - 1. Escrever uma função C que recebe uma string e transforma todas as letras dessa string em maiúsculas. OK!!!
+
+OK - 2. Escrever uma função C que recebe uma string e altera cada palavra nessa string para que a primeira letra seja maiúscula e as demais minúsculas. OK!!!
+
+OK - 3. Escrever uma função C que recebe uma string e um caractere e retorna o número de vezes que o caractere aparece na string. ---
+
+OK - 4. Escrever uma função C que recebe uma string e um caractere e retorna o índice em que o caractere parece, pela primeira vez, na string. Se o caractere não estiver na string retorna -1. --
+
+OK - 5. Escrever uma função C que recebe uma string e retorna o número de vogais na string. --
+
+QUASE OK - 6. Escrever uma função que recebe uma matriz de strings e a preenche com nomes de pessoas aleatórios. Um nome deve ser composto por um primeiro nome e dois sobrenomes.
+
+QUASE OK - 7. Faça uma função que recebe um nome completo e mostre a uma string formada pela primeira letra de cada palavra do nome. Não se devem mostrar a primeira letra de preposições como: do, de, etc. A abreviatura deve vir separada por pontos. Ex: Paulo Jose de Almeida Prado. Abreviatura: P.J.A.P. 
+
+8. Fazer uma função para que recebe uma string e retorna o número de ditongos ou hiatos nessa string.
+
+OK - 9. Fazer uma função para que recebe uma string e retorna o número letras iguais consecutivas, como o r em carro.
+
+OK - 10.Escrever uma função que recebe um nome e retorna um inteiro. A função substitui todos os espaços do seu parâmetro pelo caracter '-', e retorna o número de substituições feitas.OK!!!
+
+11. Escrever uma função C que recebe um número inteiro entre 1 e 999 e uma string e carrega na string o número escrito por extenso.
+
